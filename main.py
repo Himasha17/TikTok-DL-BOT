@@ -68,6 +68,7 @@ def Download_Video(Link,update, context):
 
 🔰 Powerd by : [🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md)
 [🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
+[Meme stock](https://t.me/Meme_Stock_o_O)
 
 ◇───────────────◇"""
     
