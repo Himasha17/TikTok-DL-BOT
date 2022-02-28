@@ -41,7 +41,7 @@
 ## ☘️ Telegram
 
 [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
-[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
+[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️<br>
 [meme stock](https://t.me/Meme_Stock_o_O)
 
 ##
